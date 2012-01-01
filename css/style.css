@@ -20,7 +20,9 @@ a#me {
 }
 
 
-#profile {
+#footer {
     width: 800px;
     margin: 20px auto 0 auto;
+    padding-top: 10px;
+    border-top: #DDD 2px solid;
 }
