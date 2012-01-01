@@ -1,0 +1,26 @@
+body {
+    font-size: 14px;
+}
+
+#header {
+    width: 800px;
+    margin: 20px auto 0 auto;
+}
+
+a#me {
+    color: #64C914;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+#content {
+    width: 800px;
+    margin: 20px auto 0 auto;
+}
+
+
+#profile {
+    width: 800px;
+    margin: 20px auto 0 auto;
+}
